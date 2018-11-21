@@ -54,8 +54,6 @@ In this tabs, you can interface with the iris data:
 
 **For details:**
 
-[Data wrangling wrap up.Rmd](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Data%20wrangling%20wrap%20up.Rmd)
-
-[Data wrangling wrap up.md](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Data_wrangling_wrap_up.md)
+[my code](https://github.com/STAT545-UBC-students/hw08-Sukeysun/blob/master/iris/app.R)
 
 [my app URL](https://sukeysun.shinyapps.io/iris/)
