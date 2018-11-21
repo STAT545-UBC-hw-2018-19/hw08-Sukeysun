@@ -1,5 +1,10 @@
 Homework 08: Making a shiny app
 ================
+**For details:**
+
+[my code](https://github.com/STAT545-UBC-students/hw08-Sukeysun/blob/master/iris/app.R)
+
+[my app URL](https://sukeysun.shinyapps.io/iris/)
 
 -   [Introduction to the data frame :smile:](#introduction-to-the-data-frame-smile)
     -   [Description](#description)
@@ -52,8 +57,4 @@ In this tabs, you can interface with the iris data:
 -   Highlight the selected column When you put the mouse in a selected column, this column will be highlight.
 -   Download data
 
-**For details:**
 
-[my code](https://github.com/STAT545-UBC-students/hw08-Sukeysun/blob/master/iris/app.R)
-
-[my app URL](https://sukeysun.shinyapps.io/iris/)
