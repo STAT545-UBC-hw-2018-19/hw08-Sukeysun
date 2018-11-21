@@ -1,0 +1,12 @@
+name: iris
+title: iris
+username:
+account: sukeysun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 575168
+bundleId: 1703672
+url: https://sukeysun.shinyapps.io/iris/
+when: 1542335897.05495
+asMultiple: FALSE
+asStatic: FALSE
