@@ -4,6 +4,11 @@ output:
   github_document:
     toc: yes
 ---
+**For details:**
+
+[my code](https://github.com/STAT545-UBC-students/hw08-Sukeysun/blob/master/iris/app.R)
+
+[my app URL](https://sukeysun.shinyapps.io/iris/)
 
 ## Introduction to the data frame :smile:
 ### Description
@@ -56,17 +61,10 @@ In this tabs, you can interface with the iris data:
     * You can select or deselect all rows  
     * You can select some specific rows you like and the selected row number is shown in the sidebar.  
   * Choose columns  
-      you can select which columns you would like to see in the table  
+    * you can select which columns you would like to see in the table  
   * Highlight the selected column
-      When you put the mouse in a selected column, this column will be highlight.
+    * When you put the mouse in a selected column, this column will be highlight.
   * Download data
 
 
   
-**For details:**
-
-[Data wrangling wrap up.Rmd](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Data%20wrangling%20wrap%20up.Rmd)  
-
-[Data wrangling wrap up.md](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Data_wrangling_wrap_up.md)
-
-[my app URL](https://sukeysun.shinyapps.io/iris/)

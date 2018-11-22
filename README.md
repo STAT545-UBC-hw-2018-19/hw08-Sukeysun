@@ -15,6 +15,12 @@ Homework 08: Making a shiny app
 -   [Features in CLUSTER](#features-in-cluster)
 -   [Features in IRIS DATA](#features-in-iris-data)
 
+**For details:**
+
+[my code](https://github.com/STAT545-UBC-students/hw08-Sukeysun/blob/master/iris/app.R)
+
+[my app URL](https://sukeysun.shinyapps.io/iris/)
+
 Introduction to the data frame :smile:
 --------------------------------------
 
@@ -53,9 +59,16 @@ In this tabs, you can interface with the iris data:
     -   You can select or deselect all rows
     -   You can select some specific rows you like and the selected row number is shown in the sidebar.
 -   Choose columns
+<<<<<<< HEAD
+    -   you can select which columns you would like to see in the table
+-   Highlight the selected column
+    -   When you put the mouse in a selected column, this column will be highlight.
+-   Download data
+=======
         you can select which columns you would like to see in the table
 -   Highlight the selected column 
         When you put the mouse in a selected column, this column will be highlight.
 -   Download data
 
 
+>>>>>>> 23885a5d727d95ee8c3777b9d3849632a8ec504a
