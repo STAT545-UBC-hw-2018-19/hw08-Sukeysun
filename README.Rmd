@@ -61,10 +61,7 @@ In this tabs, you can interface with the iris data:
     * You can select or deselect all rows  
     * You can select some specific rows you like and the selected row number is shown in the sidebar.  
   * Choose columns  
-    * you can select which columns you would like to see in the table  
-  * Highlight the selected column
-    * When you put the mouse in a selected column, this column will be highlight.
+    * you can select which columns you would like to see in the table   
+  * Highlight the selected column  
+    * When you put the mouse in a selected column, this column will be highlight.  
   * Download data
-
-
-  
