@@ -7,7 +7,9 @@ library(shinythemes)
 
 ui <- fluidPage(
   titlePanel("Iris k-means clustering"),
+  ## choose a theme
   theme = shinythemes::shinytheme("sandstone"),
+  ## features in sidebar, each tab has its only particular features
   sidebarLayout(
              sidebarPanel(
                a(img(src="http://stat545.com/Classroom/stat-545.png",height=200,width=200),
